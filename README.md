@@ -36,6 +36,7 @@ Everything in `sim/` runs from that directory with Python 3, numpy and pandas.
 | `sim7.py` | Yahoo-ranking opponents (7 Yahoo, 2 Hashtag, 2 AI) |
 | `sim8.py` | The pick-32 bigs-or-guards decision rule |
 | `sim9.py` | Shared NBA team schedules with daily lineups, teammate penalty |
+| `sim10.py` | ADP lookahead (value now + expected best still there next pick); no gain, not used |
 | `diag.py` | Category win rates and typical picks per round |
 
 Data:
