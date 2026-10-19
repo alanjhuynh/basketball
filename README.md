@@ -12,6 +12,9 @@ Lineup: PG, SG, G, SF, PF, F, C, C, UTIL, UTIL, UTIL plus 3 bench, daily changes
 https://claude.ai/artifact/WKqs61j1c9kP6QXorvikmy. Tap each player as anyone drafts him; the board tracks
 the snake order and suggests picks.
 
+`board/pick8-war-room-standalone.html` is the same board with a full HTML header, so it can be opened
+directly in any browser (including on a phone) with no other files.
+
 - Picks 8 and 17: best player available.
 - Right before pick 32 it decides Bigs or Guards. Guards if 2+ other teams took a center 10+ picks ahead
   of his Yahoo rank; otherwise Bigs (caps: 7 pure C, 10 C-eligible).
